@@ -1,0 +1,1 @@
+{"name":"ww-input-select-custom","version":"3.1.1","scripts":{"build":"weweb build","serve":"weweb serve"},"devDependencies":{},"dependencies":{"@vueform/multiselect":"2.6.2"}}

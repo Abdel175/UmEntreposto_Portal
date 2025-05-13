@@ -1,0 +1,112 @@
+
+@font-face {
+    font-family: 'UmEntreposto_fonte';
+    font-style: italic;
+    font-weight: 100;
+    font-display: swap;
+    src: url(6122a685-60ad-45ec-bcfc-933225f6229f.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'UmEntreposto_fonte';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: url(587bea54-a79f-4b14-a547-b320f482f887.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'UmEntreposto_fonte';
+    font-style: italic;
+    font-weight: 200;
+    font-display: swap;
+    src: url(164271fc-5163-4f99-82e9-9ffd60d70383.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'UmEntreposto_fonte';
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src: url(520f09b3-dd5f-495e-9758-d11435d07811.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'UmEntreposto_fonte';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(9e01ca8e-e09c-4965-a36d-171e26e6bc2e.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'UmEntreposto_fonte';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(c7b75a9d-62c2-464b-ab6f-1e52d7e8a5d0.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'UmEntreposto_fonte';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(9ce4f108-50a6-452c-8439-3cf43fa74ff0.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'UmEntreposto_fonte';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(b168288f-32b9-46e6-ba77-ebfb94727cec.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'UmEntreposto_fonte';
+    font-style: italic;
+    font-weight: 500;
+    font-display: swap;
+    src: url(b9ff5001-6c46-42ed-aed0-7ef93b7ec1b4.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'UmEntreposto_fonte';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(db5cf2df-3d3b-462c-88a3-5cddf81d0fc0.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'UmEntreposto_fonte';
+    font-style: italic;
+    font-weight: 600;
+    font-display: swap;
+    src: url(5b839eea-4d85-4557-a5b6-61ccfc942fcc.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'UmEntreposto_fonte';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(a7f78e24-c7ae-49e2-bce2-c8e931bd208e.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'UmEntreposto_fonte';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url(df52eb04-543f-4c6d-b4a7-5ec763924b0f.otf) format('truetype');
+}
+
+@font-face {
+    font-family: 'UmEntreposto_fonte';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(cb761389-99c5-49c5-aceb-84043920b428.otf) format('truetype');
+}

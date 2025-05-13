@@ -1,0 +1,1 @@
+{"name":"ww-hover-dropdown","repository":{"type":"git","url":"https://github.com/weweb-assets/ww-hover-dropdown"},"version":"3.2.0","license":"MIT","scripts":{"build":"weweb build","serve":"weweb serve"},"devDependencies":{}}

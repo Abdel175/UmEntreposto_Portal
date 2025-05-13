@@ -1,0 +1,1 @@
+{"name":"ww-date-time-picker","version":"0.0.1","scripts":{"build":"weweb build","serve":"weweb serve"},"devDependencies":{},"dependencies":{"@vuepic/vue-datepicker":"3.6.8","date-fns":"4.1.0"}}

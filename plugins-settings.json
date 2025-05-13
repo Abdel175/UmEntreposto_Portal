@@ -1,0 +1,37 @@
+{
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "94226fd5-0448-4b14-918c-0eada34b2999",
+        "name": "REST API",
+        "designId": "dcd951ac-069a-4051-9c64-5b3e0812549f",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    },
+    "cabb43dd-6161-4140-8ebf-03b6fb045a0b": {
+        "id": "f0f70fac-102a-450c-b379-4bd0e70fd007",
+        "name": "Google",
+        "designId": "dcd951ac-069a-4051-9c64-5b3e0812549f",
+        "pluginId": "cabb43dd-6161-4140-8ebf-03b6fb045a0b",
+        "publicData": {}
+    },
+    "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
+        "id": "943564a9-5b91-458b-943f-d2cbe72ecdec",
+        "name": "Supabase Auth",
+        "designId": "dcd951ac-069a-4051-9c64-5b3e0812549f",
+        "pluginId": "1fa0dd68-5069-436c-9a7d-3b54c340f1fa",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imp1aWFuYmVsbGFmeGFvdHljZ3liIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDY4MDUwMDYsImV4cCI6MjA2MjM4MTAwNn0.DpXMkyU_Tto6SwRup0c-roUfiJbT8TL2DmVj4ivv0OI",
+            "projectUrl": "https://juianbellafxaotycgyb.supabase.co"
+        }
+    },
+    "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
+        "id": "2d62c720-df3d-4ff6-86e0-aa719828648a",
+        "name": "Supabase",
+        "designId": "dcd951ac-069a-4051-9c64-5b3e0812549f",
+        "pluginId": "f9ef41c3-1c53-4857-855b-f2f6a40b7186",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imp1aWFuYmVsbGFmeGFvdHljZ3liIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDY4MDUwMDYsImV4cCI6MjA2MjM4MTAwNn0.DpXMkyU_Tto6SwRup0c-roUfiJbT8TL2DmVj4ivv0OI",
+            "projectUrl": "https://juianbellafxaotycgyb.supabase.co",
+            "realtimeTables": {}
+        }
+    }
+}

@@ -1,0 +1,1 @@
+{"name":"ww-progressbar-donut","version":"0.0.1","scripts":{"build":"weweb build","serve":"weweb serve"},"devDependencies":{},"dependencies":{"vue-ellipse-progress":"^2.1.1"}}

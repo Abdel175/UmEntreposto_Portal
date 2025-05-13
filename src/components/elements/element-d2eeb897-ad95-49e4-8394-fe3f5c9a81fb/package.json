@@ -1,0 +1,1 @@
+{"name":"ag-grid-table","version":"1.3.6","scripts":{"build":"weweb build","serve":"weweb serve"},"dependencies":{"@ag-grid-community/locale":"33.2.4","ag-grid-vue3":"33.2.4"},"devDependencies":{}}
